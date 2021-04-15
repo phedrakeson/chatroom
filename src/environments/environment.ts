@@ -3,7 +3,10 @@
 // The list of file replacements can be found in `angular.json`.
 
 export const environment = {
-  production: false
+  production: false,
+  PORT: 5500,
+  STREAM_API_KEY: 'w6y8wxqff29r',
+  STREAM_APP_SECRET: 'uxs9sgtxvhtejchrwdgxfbzevdtjv8evv459unhzedg5h85aukn8cw3yr2jre2kd'
 };
 
 /*
